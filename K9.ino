@@ -3,7 +3,7 @@
  *
  *
  * Autor: Mauricio de O. Pena
- * Data: 30/02/2014
+ * Data: 30/01/2014
  *
  */
 #include <Ultrasonic.h>
